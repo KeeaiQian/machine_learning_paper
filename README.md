@@ -1,3 +1,9 @@
+## Contrastive learning for label-efficient semanti segmentation
+
+Introduction: Introduction to contrastive learning.
+
+paper: https://arxiv.org/pdf/2012.06985v2.pdf
+
 ## Contrastive learning of global and local features for medical image segmentation with limited annotations
 
 Introduction: Use contrastive learning to perform unsupervised pretraining on networks with encoder-decoder structure.
