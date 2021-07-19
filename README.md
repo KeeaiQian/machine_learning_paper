@@ -21,4 +21,4 @@ paper: https://arxiv.org/pdf/2106.01226.pdf
 
 ## Unsupervised domain adaptation for medical imaging segmentation with self-ensembling
 
-Introduction: A way to make model more generalized for different scenarios. But I think this can already be achieved with
+Introduction: A way to make model more generalized for different scenarios. But I think this can already be achieved by self-supervised learning with data augmentation? Not sure whether this
