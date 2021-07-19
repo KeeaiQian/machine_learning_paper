@@ -18,3 +18,7 @@ Introduction: If you happen to use two sets of parameters when you do contrastiv
 data labeled.
 
 paper: https://arxiv.org/pdf/2106.01226.pdf
+
+## Unsupervised domain adaptation for medical imaging segmentation with self-ensembling
+
+Introduction: A way to make model more generalized for different scenarios. But I think this can already be achieved with
