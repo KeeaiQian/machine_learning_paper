@@ -24,3 +24,9 @@ paper: https://arxiv.org/pdf/2106.01226.pdf
 Introduction: A way to make model more generalized for different scenarios. But I think this can already be achieved by self-supervised learning with data augmentation? Not sure whether this methid will work better.
 
 paper: https://arxiv.org/pdf/1811.06042.pdf
+
+## A comparison of linear genetic programming and neural networks in medical data mining
+
+Abstract: We introduce a new form of linear genetic programming (GP). Two methods of acceleration of our GP approach are discussed: 1) an efficient algorithm that eliminates intron code and 2) a demetic approach to virtually parallelize the system on a single processor. Acceleration of runtime is especially important when operating with complex data sets, because they are occurring in real-world applications. We compare GP performance on medical classification problems from a benchmark database with results obtained by neural networks. Our results show that GP performs comparably in classification and generalization.
+
+paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=910462
