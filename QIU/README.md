@@ -12,3 +12,9 @@ An evolutionary programming procedure is used for optimizing computer programs i
 
 **Citation:**   
 K. Chellapilla, "Evolving computer programs without subtree crossover," in IEEE Transactions on Evolutionary Computation, vol. 1, no. 3, pp. 209-216, Sept. 1997, doi: 10.1109/4235.661552.
+
+## [Distilling Free-Form Natural Laws from Experimental Data](https://science.sciencemag.org/content/324/5923/81)
+**Abstract:**  
+For centuries, scientists have attempted to identify and document analytical laws that underlie physical phenomena in nature. Despite the prevalence of computing power, the process of finding natural laws and their corresponding equations has resisted automation. A key challenge to finding analytic relations automatically is defining algorithmically what makes a correlation in observed data important and insightful. We propose a principle for the identification of nontriviality. We demonstrated this approach by automatically searching motion-tracking data captured from various physical systems, ranging from simple harmonic oscillators to chaotic double-pendula. Without any prior knowledge about physics, kinematics, or geometry, the algorithm discovered Hamiltonians, Lagrangians, and other laws of geometric and momentum conservation. The discovery rate accelerated as laws found for simpler systems were used to bootstrap explanations for more complex systems, gradually uncovering the “alphabet” used to describe those systems.
+
+**Citation:** 
