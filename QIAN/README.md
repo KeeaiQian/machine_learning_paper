@@ -12,7 +12,7 @@ paper: https://papers.nips.cc/paper/2020/file/949686ecef4ee20a62d16b4a2d7ccca3-P
 
 code: https://github.com/krishnabits001/domain_specific_cl
 
-## Momentum Contrast for Unsupervised Visual Representation Learning
+## Momentum contrast for unsupervised visual representation learning
 
 Introduction: Maintaining a larger sample for contrastive learning when calculating contrastive loss.
 
