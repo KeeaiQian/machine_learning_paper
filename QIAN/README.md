@@ -33,4 +33,6 @@ paper: https://arxiv.org/pdf/1811.06042.pdf
 
 ## Squeeze-and-Excitation Networks
 
-Introduction: A method to le
+Introduction: A method to learn channel dependencies. Can be implemented in Residual blocks.
+
+paper: https://arxiv.org/pdf/1709.01507.pdf
