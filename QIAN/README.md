@@ -30,3 +30,7 @@ paper: https://arxiv.org/pdf/2106.01226.pdf
 Introduction: A way to make model more generalized for different scenarios. But I think this can already be achieved by self-supervised learning with data augmentation? Not sure whether this method will work better.
 
 paper: https://arxiv.org/pdf/1811.06042.pdf
+
+## Squeeze-and-Excitation Networks
+
+Introduction: A method to le
